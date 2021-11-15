@@ -1,0 +1,25 @@
+{
+  "name": "vonder_countdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iceasdza/vonder_countdown_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iceasdza/vonder_countdown_server/issues"
+  },
+  "homepage": "https://github.com/iceasdza/vonder_countdown_server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.15.2",
+    "moment": "^2.29.1",
+    "socket.io": "^3.0.4"
+  }
+}
